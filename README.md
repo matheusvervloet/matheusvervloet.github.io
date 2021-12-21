@@ -1,2 +1,1 @@
-# Matheus Vervloet
 Hello, World!
